@@ -1,4 +1,4 @@
 assignment_4_and_5/
 git add .gitignore
-git commit -m "Ignore assignment_4_and_5 directory"
+git commit -m "C:\Users\User\Desktop\assignment-student-module"
 git push origin main
